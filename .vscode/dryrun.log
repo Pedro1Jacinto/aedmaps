@@ -1,0 +1,14 @@
+make aedmaps --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/Utilizador/Desktop/aedmaps'
+gcc -c -Wall -std=c99 -O3 main.c
+ 
+gcc -c -Wall -std=c99 -O3 modos.c
+ 
+gcc -c -Wall -std=c99 -O3 adjacencylist.c
+gcc -c -Wall -std=c99 -O3 Dijkstra.c
+ 
+gcc -c -Wall -std=c99 -O3 heap.c
+gcc -c -Wall -std=c99 -O3 BFS.c
+gcc -Wall -std=c99 -O3 -o aedmaps main.o modos.o adjacencylist.o Dijkstra.o heap.o BFS.o
+make: Leaving directory '/mnt/c/Users/Utilizador/Desktop/aedmaps'
+ 
