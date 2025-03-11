@@ -1,0 +1,1744 @@
+gcc -c -g -Wall -std=c99  main.c
+gcc -c -g -Wall -std=c99  modos.c
+gcc -c -g -Wall -std=c99  adjacencylist.c
+gcc -c -g -Wall -std=c99  Dijkstra.c
+gcc -c -g -Wall -std=c99  heap.c
+gcc -c -g -Wall -std=c99  BFS.c
+gcc -g -Wall -std=c99  -o aedmaps main.o modos.o adjacencylist.o Dijkstra.o heap.o BFS.o
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns
+Problem: atum.all.prbs 
+Map: atum01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum01.maps
+
+
+Problem: atum.all.prbs 
+Map: atum02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum02.maps
+
+
+Problem: atum.all.prbs 
+Map: atum03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum03.maps
+
+
+Problem: atum.all.prbs 
+Map: atum04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum04.maps
+
+
+Problem: atum.all.prbs 
+Map: atum05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum05.maps
+
+
+Problem: atum.all.prbs 
+Map: atum06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum06.maps
+
+
+Problem: atum.all.prbs 
+Map: atum07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum07.maps
+
+
+Problem: atum.all.prbs 
+Map: atum08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum08.maps
+
+
+Problem: atum.all.prbs 
+Map: atum09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum09.maps
+
+
+Problem: atum.all.prbs 
+Map: atum10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum10.maps
+
+
+Problem: atum.all.prbs 
+Map: atum11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum11.maps
+
+
+Problem: atum.all.prbs 
+Map: atum12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum12.maps
+
+
+Problem: atum.all.prbs 
+Map: atum13.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum13.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum13.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum13.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum13.maps
+
+
+Problem: atum.all.prbs 
+Map: atum14.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum14.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum14.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum14.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum14.maps
+
+
+Problem: atum.all.prbs 
+Map: atum15.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum15.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum15.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum15.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum15.maps
+
+
+Problem: atum.all.prbs 
+Map: atum16.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum16.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum16.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum16.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum16.maps
+
+
+Problem: atum.all.prbs 
+Map: atum17.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum17.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum17.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum17.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum17.maps
+
+
+Problem: atum.all.prbs 
+Map: atum18.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/atum.all.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum18.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/maps/atum18.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/routes/atum18.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Atuns/prbs/ |	-aa atum.all.prbs atum18.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1
+Problem: centopeia.A1.prbs 
+Map: centopeia0016.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0016.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0016.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia0016.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia0016.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia0032.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0032.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0032.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia0032.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia0032.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia0064.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0064.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0064.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia0064.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia0064.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia0128.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0128.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0128.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia0128.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia0128.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia0256.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0256.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0256.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia0256.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia0256.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia0512.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0512.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia0512.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia0512.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia0512.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia1024.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia1024.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia1024.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia1024.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia1024.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia2048.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia2048.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia2048.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia2048.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia2048.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia4096.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia4096.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia4096.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia4096.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia4096.maps
+
+
+Problem: centopeia.A1.prbs 
+Map: centopeia8192.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/prbs/centopeia.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia8192.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/maps/centopeia8192.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA1/routes/centopeia8192.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasA |	-aa centopeia.A1.prbs centopeia8192.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1
+Problem: centopeia.B1.prbs 
+Map: centopeia0016.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0016.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0016.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia0016.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia0016.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia0032.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0032.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0032.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia0032.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia0032.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia0064.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0064.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0064.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia0064.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia0064.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia0128.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0128.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0128.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia0128.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia0128.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia0256.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0256.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0256.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia0256.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia0256.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia0512.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0512.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia0512.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia0512.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia0512.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia1024.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia1024.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia1024.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia1024.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia1024.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia2048.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia2048.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia2048.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia2048.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia2048.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia4096.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia4096.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia4096.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia4096.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia4096.maps
+
+
+Problem: centopeia.B1.prbs 
+Map: centopeia8192.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/prbs/centopeia.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia8192.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/maps/centopeia8192.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB1/routes/centopeia8192.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasB |	-aa centopeia.B1.prbs centopeia8192.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1
+Problem: centopeia.C1.prbs 
+Map: centopeia0016.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0016.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0016.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia0016.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia0016.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia0032.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0032.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0032.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia0032.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia0032.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia0064.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0064.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0064.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia0064.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia0064.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia0128.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0128.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0128.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia0128.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia0128.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia0256.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0256.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0256.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia0256.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia0256.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia0512.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0512.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia0512.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia0512.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia0512.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia1024.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia1024.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia1024.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia1024.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia1024.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia2048.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia2048.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia2048.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia2048.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia2048.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia4096.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia4096.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia4096.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia4096.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia4096.maps
+
+
+Problem: centopeia.C1.prbs 
+Map: centopeia8192.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/prbs/centopeia.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia8192.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/maps/centopeia8192.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC1/routes/centopeia8192.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasC |	-aa centopeia.C1.prbs centopeia8192.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1
+Problem: centopeia.D1.prbs 
+Map: centopeia0016.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0016.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0016.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia0016.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia0016.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia0032.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0032.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0032.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia0032.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia0032.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia0064.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0064.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0064.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia0064.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia0064.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia0128.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0128.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0128.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia0128.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia0128.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia0256.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0256.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0256.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia0256.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia0256.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia0512.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0512.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia0512.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia0512.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia0512.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia1024.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia1024.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia1024.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia1024.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia1024.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia2048.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia2048.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia2048.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia2048.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia2048.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia4096.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia4096.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia4096.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia4096.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia4096.maps
+
+
+Problem: centopeia.D1.prbs 
+Map: centopeia8192.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/prbs/centopeia.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia8192.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/maps/centopeia8192.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD1/routes/centopeia8192.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CentopeiasD |	-aa centopeia.D1.prbs centopeia8192.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1
+Problem: corvina.A1.prbs 
+Map: corvina01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina01.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina02.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina03.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina04.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina05.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina06.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina07.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina08.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina09.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina10.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina11.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina12.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina13.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina13.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina13.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina13.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina13.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina14.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina14.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina14.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina14.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina14.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina15.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina15.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina15.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina15.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina15.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina16.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina16.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina16.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina16.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina16.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina17.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina17.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina17.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina17.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina17.maps
+
+
+Problem: corvina.A1.prbs 
+Map: corvina18.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/prbs/corvina.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina18.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/maps/corvina18.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/routes/corvina18.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasA1/ |	-aa corvina.A1.prbs corvina18.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1
+Problem: corvina.B1.prbs 
+Map: corvina01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina01.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina02.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina03.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina04.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina05.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina06.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina07.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina08.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina09.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina10.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina11.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina12.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina13.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina13.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina13.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina13.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina13.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina14.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina14.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina14.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina14.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina14.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina15.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina15.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina15.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina15.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina15.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina16.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina16.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina16.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina16.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina16.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina17.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina17.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina17.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina17.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina17.maps
+
+
+Problem: corvina.B1.prbs 
+Map: corvina18.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/prbs/corvina.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina18.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/maps/corvina18.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/routes/corvina18.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasB1/ |	-aa corvina.B1.prbs corvina18.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1
+Problem: corvina.C1.prbs 
+Map: corvina01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina01.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina02.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina03.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina04.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina05.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina06.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina07.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina08.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina09.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina10.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina11.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina12.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina13.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina13.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina13.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina13.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina13.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina14.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina14.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina14.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina14.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina14.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina15.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina15.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina15.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina15.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina15.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina16.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina16.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina16.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina16.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina16.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina17.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina17.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina17.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina17.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina17.maps
+
+
+Problem: corvina.C1.prbs 
+Map: corvina18.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/prbs/corvina.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina18.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/maps/corvina18.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/routes/corvina18.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasC1/ |	-aa corvina.C1.prbs corvina18.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1
+Problem: corvina.D1.prbs 
+Map: corvina01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina01.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina02.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina03.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina04.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina05.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina06.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina07.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina08.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina09.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina10.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina11.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina12.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina13.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina13.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina13.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina13.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina13.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina14.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina14.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina14.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina14.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina14.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina15.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina15.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina15.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina15.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina15.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina16.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina16.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina16.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina16.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina16.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina17.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina17.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina17.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina17.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina17.maps
+
+
+Problem: corvina.D1.prbs 
+Map: corvina18.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/prbs/corvina.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina18.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/maps/corvina18.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/routes/corvina18.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/CorvinasD1/ |	-aa corvina.D1.prbs corvina18.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1
+Problem: dourada.A1.prbs 
+Map: dourada01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada01.maps
+
+
+Problem: dourada.A1.prbs 
+Map: dourada02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada02.maps
+
+
+Problem: dourada.A1.prbs 
+Map: dourada03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada03.maps
+
+
+Problem: dourada.A1.prbs 
+Map: dourada04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada04.maps
+
+
+Problem: dourada.A1.prbs 
+Map: dourada05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada05.maps
+
+
+Problem: dourada.A1.prbs 
+Map: dourada06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada06.maps
+
+
+Problem: dourada.A1.prbs 
+Map: dourada07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/prbs/dourada.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/maps/dourada07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/routes/dourada07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasA1/ |	-aa dourada.A1.prbs dourada07.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1
+Problem: dourada.B1.prbs 
+Map: dourada01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada01.maps
+
+
+Problem: dourada.B1.prbs 
+Map: dourada02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada02.maps
+
+
+Problem: dourada.B1.prbs 
+Map: dourada03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada03.maps
+
+
+Problem: dourada.B1.prbs 
+Map: dourada04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada04.maps
+
+
+Problem: dourada.B1.prbs 
+Map: dourada05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada05.maps
+
+
+Problem: dourada.B1.prbs 
+Map: dourada06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada06.maps
+
+
+Problem: dourada.B1.prbs 
+Map: dourada07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/prbs/dourada.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/maps/dourada07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/routes/dourada07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasB1/ |	-aa dourada.B1.prbs dourada07.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1
+Problem: dourada.C1.prbs 
+Map: dourada01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada01.maps
+
+
+Problem: dourada.C1.prbs 
+Map: dourada02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada02.maps
+
+
+Problem: dourada.C1.prbs 
+Map: dourada03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada03.maps
+
+
+Problem: dourada.C1.prbs 
+Map: dourada04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada04.maps
+
+
+Problem: dourada.C1.prbs 
+Map: dourada05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada05.maps
+
+
+Problem: dourada.C1.prbs 
+Map: dourada06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada06.maps
+
+
+Problem: dourada.C1.prbs 
+Map: dourada07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/prbs/dourada.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/maps/dourada07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/routes/dourada07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasC1/ |	-aa dourada.C1.prbs dourada07.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1
+Problem: dourada.D1.prbs 
+Map: dourada01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada01.maps
+
+
+Problem: dourada.D1.prbs 
+Map: dourada02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada02.maps
+
+
+Problem: dourada.D1.prbs 
+Map: dourada03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada03.maps
+
+
+Problem: dourada.D1.prbs 
+Map: dourada04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada04.maps
+
+
+Problem: dourada.D1.prbs 
+Map: dourada05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada05.maps
+
+
+Problem: dourada.D1.prbs 
+Map: dourada06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada06.maps
+
+
+Problem: dourada.D1.prbs 
+Map: dourada07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/prbs/dourada.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/maps/dourada07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/routes/dourada07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/DouradasD1/ |	-aa dourada.D1.prbs dourada07.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1
+Problem: guppy.A1.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/prbs/guppy.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/p |	-ao guppy.A1.prbs guppy01.maps
+
+
+Problem: guppy.A1.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/prbs/guppy.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/p |	-ao guppy.A1.prbs guppy02.maps
+
+
+Problem: guppy.A1.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/prbs/guppy.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/p |	-ao guppy.A1.prbs guppy03.maps
+
+
+Problem: guppy.A1.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/prbs/guppy.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesA1/p |	-aa guppy.A1.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1
+Problem: guppy.B1.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/prbs/guppy.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/p |	-ao guppy.B1.prbs guppy01.maps
+
+
+Problem: guppy.B1.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/prbs/guppy.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/p |	-ao guppy.B1.prbs guppy02.maps
+
+
+Problem: guppy.B1.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/prbs/guppy.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/p |	-ao guppy.B1.prbs guppy03.maps
+
+
+Problem: guppy.B1.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/prbs/guppy.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1/p |	-aa guppy.B1.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050
+Problem: guppy.B1.050.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/prbs/guppy.B1.050.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-ao guppy.B1.050.prbs guppy01.maps
+
+
+Problem: guppy.B1.050.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/prbs/guppy.B1.050.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-ao guppy.B1.050.prbs guppy02.maps
+
+
+Problem: guppy.B1.050.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/prbs/guppy.B1.050.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-ao guppy.B1.050.prbs guppy03.maps
+
+
+Problem: guppy.B1.050.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/prbs/guppy.B1.050.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.050/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-aa guppy.B1.050.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070
+Problem: guppy.B1.070.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/prbs/guppy.B1.070.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-ao guppy.B1.070.prbs guppy01.maps
+
+
+Problem: guppy.B1.070.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/prbs/guppy.B1.070.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-ao guppy.B1.070.prbs guppy02.maps
+
+
+Problem: guppy.B1.070.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/prbs/guppy.B1.070.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-ao guppy.B1.070.prbs guppy03.maps
+
+
+Problem: guppy.B1.070.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/prbs/guppy.B1.070.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.070/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.0 |	-aa guppy.B1.070.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100
+Problem: guppy.B1.100.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/prbs/guppy.B1.100.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.1 |	-ao guppy.B1.100.prbs guppy01.maps
+
+
+Problem: guppy.B1.100.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/prbs/guppy.B1.100.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.1 |	-ao guppy.B1.100.prbs guppy02.maps
+
+
+Problem: guppy.B1.100.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/prbs/guppy.B1.100.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.1 |	-ao guppy.B1.100.prbs guppy03.maps
+
+
+Problem: guppy.B1.100.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/prbs/guppy.B1.100.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.100/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.1 |	-aa guppy.B1.100.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200
+Problem: guppy.B1.200.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/prbs/guppy.B1.200.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.2 |	-ao guppy.B1.200.prbs guppy01.maps
+
+
+Problem: guppy.B1.200.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/prbs/guppy.B1.200.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.2 |	-ao guppy.B1.200.prbs guppy02.maps
+
+
+Problem: guppy.B1.200.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/prbs/guppy.B1.200.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.2 |	-ao guppy.B1.200.prbs guppy03.maps
+
+
+Problem: guppy.B1.200.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/prbs/guppy.B1.200.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.200/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.2 |	-aa guppy.B1.200.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special
+Problem: guppy.B1.special.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/prbs/guppy.B1.special.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.s |	-ao guppy.B1.special.prbs guppy01.maps
+
+
+Problem: guppy.B1.special.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/prbs/guppy.B1.special.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.s |	-ao guppy.B1.special.prbs guppy02.maps
+
+
+Problem: guppy.B1.special.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/prbs/guppy.B1.special.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.s |	-ao guppy.B1.special.prbs guppy03.maps
+
+
+Problem: guppy.B1.special.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/prbs/guppy.B1.special.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.special/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesB1.s |	-aa guppy.B1.special.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1
+Problem: guppy.C1.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/prbs/guppy.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/p |	-ao guppy.C1.prbs guppy01.maps
+
+
+Problem: guppy.C1.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/prbs/guppy.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/p |	-ao guppy.C1.prbs guppy02.maps
+
+
+Problem: guppy.C1.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/prbs/guppy.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/p |	-ao guppy.C1.prbs guppy03.maps
+
+
+Problem: guppy.C1.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/prbs/guppy.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesC1/p |	-aa guppy.C1.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1
+Problem: guppy.D1.prbs 
+Map: guppy01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/prbs/guppy.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/routes/guppy01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/p |	-ao guppy.D1.prbs guppy01.maps
+
+
+Problem: guppy.D1.prbs 
+Map: guppy02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/prbs/guppy.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/routes/guppy02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/p |	-ao guppy.D1.prbs guppy02.maps
+
+
+Problem: guppy.D1.prbs 
+Map: guppy03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/prbs/guppy.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/routes/guppy03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/p |	-ao guppy.D1.prbs guppy03.maps
+
+
+Problem: guppy.D1.prbs 
+Map: guppy04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/prbs/guppy.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/maps/guppy04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/routes/guppy04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/GuppiesD1/p |	-aa guppy.D1.prbs guppy04.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Oceanario
+Problem: oceanario.prbs 
+Map: oceanario.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Oceanario/prbs/oceanario.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Oceanario/maps/oceanario.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Oceanario/maps/oceanario.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Oceanario/routes/oceanario.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Oceanario/p |	-aa oceanario.prbs oceanario.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1
+Problem: sardinha.A1.prbs 
+Map: sardinha01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha01.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha02.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha03.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha04.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha05.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha06.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha07.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha08.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha09.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha10.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-ao sardinha.A1.prbs sardinha11.maps
+
+
+Problem: sardinha.A1.prbs 
+Map: sardinha12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/prbs/sardinha.A1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/maps/sardinha12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1/routes/sardinha12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasA1 |	-aa sardinha.A1.prbs sardinha12.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1
+Problem: sardinha.B1.prbs 
+Map: sardinha01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha01.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha02.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha03.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha04.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha05.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha06.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha07.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha08.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha09.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha10.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-ao sardinha.B1.prbs sardinha11.maps
+
+
+Problem: sardinha.B1.prbs 
+Map: sardinha12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/prbs/sardinha.B1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/maps/sardinha12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1/routes/sardinha12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasB1 |	-aa sardinha.B1.prbs sardinha12.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1
+Problem: sardinha.C1.prbs 
+Map: sardinha01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha01.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha02.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha03.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha04.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha05.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha06.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha07.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha08.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha09.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha10.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha11.maps
+
+
+Problem: sardinha.C1.prbs 
+Map: sardinha12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/prbs/sardinha.C1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/maps/sardinha12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1/routes/sardinha12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasC1 |	-aa sardinha.C1.prbs sardinha12.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1
+Problem: sardinha.D1.prbs 
+Map: sardinha01.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha01.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha01.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha01.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha01.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha02.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha02.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha02.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha02.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha02.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha03.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha03.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha03.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha03.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha03.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha04.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha04.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha04.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha04.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha04.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha05.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha05.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha05.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha05.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha05.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha06.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha06.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha06.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha06.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha06.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha07.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha07.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha07.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha07.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha07.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha08.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha08.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha08.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha08.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha08.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha09.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha09.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha09.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha09.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha09.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha10.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha10.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha10.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha10.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha10.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha11.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha11.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha11.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha11.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha11.maps
+
+
+Problem: sardinha.D1.prbs 
+Map: sardinha12.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/prbs/sardinha.D1.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha12.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/maps/sardinha12.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1/routes/sardinha12.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/SardinhasD1 |	-aa sardinha.D1.prbs sardinha12.maps
+
+
+Solving probs for files in: /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Tubarao
+Problem: tubarao.prbs 
+Map: tubarao.maps
+Arguments: -aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Tubarao/prbs/tubarao.prbs /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Tubarao/maps/tubarao.maps
+Diff Command: sdiff /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Tubarao/maps/tubarao.routes /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Tubarao/routes/tubarao.routes | egrep -n "\||>|<"
+1:-aa /mnt/c/Users/Utilizador/Desktop/aedmaps/test2/Tubarao/prb |	-aa tubarao.prbs tubarao.maps
+
+
+rm -f *.o core a.out aedmaps *~
